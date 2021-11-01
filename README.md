@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bryan Foo
-- 👀 I’m interested in exploratory data analysis, feature engineering, machine learning algorithms, etc.  
+- 👀 I’m interested in exploratory data analysis and preparation, feature engineering, machine learning algorithms, etc.  
 - 🌱 I’m currently learning extracting data from RDBMS and moving on to productionalizing machine learning models.
 - 💞️ I’m looking to collaborate on any exciting machine learning projects that can help us understand the world better.
 - 📫 How to reach me: Please reach me at foosuanyeuan.bryan@gmail.com. Do introduce yourself and we can meet for coffee.
