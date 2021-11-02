@@ -5,6 +5,7 @@
 - 📫 How to reach me: Please reach me at foosuanyeuan.bryan@gmail.com. Do introduce yourself and we can meet for coffee.
 
 Linkedin Profile:https://www.linkedin.com/in/bryanfoo/
+Click [here](https://www.linkedin.com/in/bryanfoo/) to go to my Linkedin profile.
 
 <!---
 foos0016/foos0016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
