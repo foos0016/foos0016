@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any exciting machine learning projects that can help us understand the world better.
 - 📫 How to reach me: Please reach me at foosuanyeuan.bryan@gmail.com. Do introduce yourself and we can meet for coffee.
 
-Linkedin Profile:https://www.linkedin.com/in/bryanfoo/
 Click [here](https://www.linkedin.com/in/bryanfoo/) to go to my Linkedin profile.
 
 <!---
