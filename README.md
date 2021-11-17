@@ -5,7 +5,7 @@
 - 📫 How to reach me: Please reach me at foosuanyeuan.bryan@gmail.com. Do introduce yourself and we can meet for coffee.
 
 Click [here](https://www.linkedin.com/in/bryanfoo/) to go to my Linkedin profile.
-Click [here](https://www.kaggle.com/bryanfu123) to go to my Kaggle profile.
+<br /> Click [here](https://www.kaggle.com/bryanfu123) to go to my Kaggle profile.
 
 <!---
 foos0016/foos0016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
