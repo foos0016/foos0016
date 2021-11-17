@@ -6,6 +6,8 @@
 
 Click [here](https://www.linkedin.com/in/bryanfoo/) to go to my Linkedin profile.
 
+Click [here](https://www.kaggle.com/bryanfu123) to go to my Kaggle profile.
+
 <!---
 foos0016/foos0016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
